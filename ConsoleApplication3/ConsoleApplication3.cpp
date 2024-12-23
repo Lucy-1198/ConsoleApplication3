@@ -9,6 +9,7 @@ int main()
     std::cout << "HDFHDDF\n";
     std::cout << "HSDF\n";
     std::cout << "KYX";
+    std::cout << "QDYX";
 
 }
 
