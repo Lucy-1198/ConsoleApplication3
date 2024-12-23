@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "HDFHDDF\n";
     std::cout << "HSDF\n";
+    std::cout << "KYX";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
