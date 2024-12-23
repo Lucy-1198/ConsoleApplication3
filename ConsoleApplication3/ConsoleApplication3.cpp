@@ -10,6 +10,7 @@ int main()
     std::cout << "HSDF\n";
     std::cout << "KYX";
     std::cout << "QDYX";
+    std::cout << "BEST LONG";
 
 }
 
